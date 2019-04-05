@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "973044793803",
+    "firebase_url": "https://dizifilmapp-245a1.firebaseio.com",
+    "project_id": "dizifilmapp-245a1",
+    "storage_bucket": "dizifilmapp-245a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973044793803:android:1e73b621b1a56f3a",
+        "android_client_info": {
+          "package_name": "com.yunus.dizifilmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDib2xXcTeaumzy-p2Cua7Ukr4M5iQE5EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973044793803-93f03ngn7lti8h9unmldlpinafra3quj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
